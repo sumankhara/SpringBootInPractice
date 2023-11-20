@@ -1,0 +1,39 @@
+2023-11-20 15:54:30.689 [ INFO] [           main] c.m.s.CommonSpringBootTasksApplication   : Starting CommonSpringBootTasksApplication using Java 11.0.16 on sumankhara-mac with PID 37553 (/Users/sumankhara/Documents/PersonalProjects/Spring/Book/SpringBootInPractice/common-spring-boot-tasks/target/classes started by sumankhara in /Users/sumankhara/Documents/PersonalProjects/Spring/Book/SpringBootInPractice)
+2023-11-20 15:54:30.691 [DEBUG] [           main] c.m.s.CommonSpringBootTasksApplication   : Running with Spring Boot v2.7.17, Spring v5.3.30
+2023-11-20 15:54:30.691 [ INFO] [           main] c.m.s.CommonSpringBootTasksApplication   : No active profile set, falling back to 1 default profile: "default"
+2023-11-20 15:54:31.154 [ INFO] [           main] c.m.s.CommonSpringBootTasksApplication   : Started CommonSpringBootTasksApplication in 0.729 seconds (JVM running for 1.524)
+2023-11-20 15:54:31.158 [ INFO] [           main] c.m.s.c.MyCommandLineRunner              : MyCommandLineRunner executed as a Spring compoent
+2023-11-20 15:54:31.158 [ INFO] [           main] c.m.s.CommonSpringBootTasksApplication   : CommonSpringBootTasksApplication::CommandLineRunner has executed
+2023-11-20 15:54:31.160 [ INFO] [           main] c.m.s.c.AppConfiguration                 : CommandLineRunner executed as bean definition with 0 arguments
+2023-11-20 15:54:31.166 [ INFO] [           main] c.m.s.CommonSpringBootTasksApplication   : Username: sumankhara, Password: p@ssw0rd
+2023-11-20 15:54:31.167 [ INFO] [           main] c.m.s.CommonSpringBootTasksApplication   : Port = 8080
+2023-11-20 15:54:31.167 [ INFO] [           main] c.m.s.CommonSpringBootTasksApplication   : OS environment variable: null
+2023-11-20 15:54:31.182 [ INFO] [           main] c.m.s.CommonSpringBootTasksApplication   : AppProperties{name='CourseTracker', ip='127.0.0.1', port=9090, security=Security{enabled=true, token='asddf998hhyqthgtYYtggghg9908jjh7ttr', roles=[USER, ADMIN]}}
+2023-11-20 15:57:17.873 [ INFO] [           main] c.m.s.CommonSpringBootTasksApplication   : Starting CommonSpringBootTasksApplication using Java 11.0.16 on sumankhara-mac with PID 37793 (/Users/sumankhara/Documents/PersonalProjects/Spring/Book/SpringBootInPractice/common-spring-boot-tasks/target/classes started by sumankhara in /Users/sumankhara/Documents/PersonalProjects/Spring/Book/SpringBootInPractice)
+2023-11-20 15:57:17.875 [DEBUG] [           main] c.m.s.CommonSpringBootTasksApplication   : Running with Spring Boot v2.7.17, Spring v5.3.30
+2023-11-20 15:57:17.876 [ INFO] [           main] c.m.s.CommonSpringBootTasksApplication   : No active profile set, falling back to 1 default profile: "default"
+2023-11-20 15:57:18.300 [ INFO] [           main] c.m.s.CommonSpringBootTasksApplication   : Started CommonSpringBootTasksApplication in 0.678 seconds (JVM running for 1.537)
+2023-11-20 15:57:18.304 [ INFO] [           main] c.m.s.c.MyCommandLineRunner              : MyCommandLineRunner executed as a Spring compoent
+2023-11-20 15:57:18.304 [ INFO] [           main] c.m.s.CommonSpringBootTasksApplication   : CommonSpringBootTasksApplication::CommandLineRunner has executed
+2023-11-20 15:57:18.306 [ INFO] [           main] c.m.s.c.AppConfiguration                 : CommandLineRunner executed as bean definition with 0 arguments
+2023-11-20 15:57:18.312 [ INFO] [           main] c.m.s.CommonSpringBootTasksApplication   : Username: sumankhara, Password: p@ssw0rd
+2023-11-20 15:57:18.312 [ INFO] [           main] c.m.s.CommonSpringBootTasksApplication   : Port = 8080
+2023-11-20 15:57:18.313 [ INFO] [           main] c.m.s.CommonSpringBootTasksApplication   : OS environment variable: null
+2023-11-20 15:57:18.327 [ INFO] [           main] c.m.s.CommonSpringBootTasksApplication   : AppProperties{name='CourseTracker', ip='127.0.0.1', port=9090, security=Security{enabled=true, token='asddf998hhyqthgtYYtggghg9908jjh7ttr', roles=[USER, ADMIN]}}
+2023-11-20 15:57:18.327 [ INFO] [           main] c.m.s.CommonSpringBootTasksApplication   : CommonSpringBootTasksApplication started successfully with Log4j2 configuration
+2023-11-20 16:15:28.264 [ INFO] [kground-preinit] o.h.v.i.u.Version                        : HV000001: Hibernate Validator 6.2.5.Final
+2023-11-20 16:15:28.281 [ INFO] [           main] c.m.s.CommonSpringBootTasksApplication   : Starting CommonSpringBootTasksApplication using Java 11.0.16 on sumankhara-mac with PID 39279 (/Users/sumankhara/Documents/PersonalProjects/Spring/Book/SpringBootInPractice/common-spring-boot-tasks/target/classes started by sumankhara in /Users/sumankhara/Documents/PersonalProjects/Spring/Book/SpringBootInPractice)
+2023-11-20 16:15:28.281 [DEBUG] [           main] c.m.s.CommonSpringBootTasksApplication   : Running with Spring Boot v2.7.17, Spring v5.3.30
+2023-11-20 16:15:28.282 [ INFO] [           main] c.m.s.CommonSpringBootTasksApplication   : No active profile set, falling back to 1 default profile: "default"
+2023-11-20 16:15:28.707 [ INFO] [           main] c.m.s.CommonSpringBootTasksApplication   : Started CommonSpringBootTasksApplication in 0.656 seconds (JVM running for 1.498)
+2023-11-20 16:15:28.710 [ INFO] [           main] c.m.s.c.MyCommandLineRunner              : MyCommandLineRunner executed as a Spring compoent
+2023-11-20 16:15:28.710 [ INFO] [           main] c.m.s.CommonSpringBootTasksApplication   : CommonSpringBootTasksApplication::CommandLineRunner has executed
+2023-11-20 16:15:28.751 [ERROR] [           main] c.m.s.CommonSpringBootTasksApplication   : A constraint violation has occurred. Violation details: [ConstraintViolationImpl{interpolatedMessage='A course should have a name', propertyPath=name, rootBeanClass=class com.manning.sbip.domain.Course, messageTemplate='A course should have a name'}]
+2023-11-20 16:15:28.751 [ERROR] [           main] c.m.s.CommonSpringBootTasksApplication   : A constraint violation has occurred. Violation details: [ConstraintViolationImpl{interpolatedMessage='A course should have a minimum of 1 rating', propertyPath=rating, rootBeanClass=class com.manning.sbip.domain.Course, messageTemplate='A course should have a minimum of 1 rating'}]
+2023-11-20 16:15:28.753 [ INFO] [           main] c.m.s.c.AppConfiguration                 : CommandLineRunner executed as bean definition with 0 arguments
+2023-11-20 16:15:28.758 [ INFO] [           main] c.m.s.CommonSpringBootTasksApplication   : Username: sumankhara, Password: p@ssw0rd
+2023-11-20 16:15:28.759 [ INFO] [           main] c.m.s.CommonSpringBootTasksApplication   : Port = 8080
+2023-11-20 16:15:28.759 [ INFO] [           main] c.m.s.CommonSpringBootTasksApplication   : OS environment variable: null
+2023-11-20 16:15:28.773 [ INFO] [           main] c.m.s.CommonSpringBootTasksApplication   : AppProperties{name='CourseTracker', ip='127.0.0.1', port=9090, security=Security{enabled=true, token='asddf998hhyqthgtYYtggghg9908jjh7ttr', roles=[USER, ADMIN]}}
+2023-11-20 16:15:28.773 [ INFO] [           main] c.m.s.CommonSpringBootTasksApplication   : CommonSpringBootTasksApplication started successfully with Log4j2 configuration
+2023-11-20 16:17:34.804 [ INFO] [kground-preinit] o.h.v.i.u.Version                        : HV000001: Hibernate Validator 6.2.5.Final

@@ -1,0 +1,20 @@
+2023-11-20 15:48:35.293  INFO 37065 --- [main] c.m.s.CommonSpringBootTasksApplication   : Starting CommonSpringBootTasksApplication using Java 11.0.16 on sumankhara-mac with PID 37065 (/Users/sumankhara/Documents/PersonalProjects/Spring/Book/SpringBootInPractice/common-spring-boot-tasks/target/classes started by sumankhara in /Users/sumankhara/Documents/PersonalProjects/Spring/Book/SpringBootInPractice)
+2023-11-20 15:48:35.297  INFO 37065 --- [main] c.m.s.CommonSpringBootTasksApplication   : No active profile set, falling back to 1 default profile: "default"
+2023-11-20 15:48:35.797  INFO 37065 --- [main] c.m.s.CommonSpringBootTasksApplication   : Started CommonSpringBootTasksApplication in 0.816 seconds (JVM running for 1.511)
+2023-11-20 15:48:35.801  INFO 37065 --- [main] c.m.sbip.config.MyCommandLineRunner      : MyCommandLineRunner executed as a Spring compoent
+2023-11-20 15:48:35.802  INFO 37065 --- [main] c.m.s.CommonSpringBootTasksApplication   : CommonSpringBootTasksApplication::CommandLineRunner has executed
+2023-11-20 15:48:35.803  INFO 37065 --- [main] c.manning.sbip.config.AppConfiguration   : CommandLineRunner executed as bean definition with 0 arguments
+2023-11-20 15:48:35.812  INFO 37065 --- [main] c.m.s.CommonSpringBootTasksApplication   : Username: sumankhara, Password: p@ssw0rd
+2023-11-20 15:48:35.812  INFO 37065 --- [main] c.m.s.CommonSpringBootTasksApplication   : Port = 8080
+2023-11-20 15:48:35.813  INFO 37065 --- [main] c.m.s.CommonSpringBootTasksApplication   : OS environment variable: null
+2023-11-20 15:48:35.829  INFO 37065 --- [main] c.m.s.CommonSpringBootTasksApplication   : AppProperties{name='CourseTracker', ip='127.0.0.1', port=9090, security=Security{enabled=true, token='asddf998hhyqthgtYYtggghg9908jjh7ttr', roles=[USER, ADMIN]}}
+2023-11-20 15:50:30.779  INFO 37229 --- [main] c.m.s.CommonSpringBootTasksApplication   : Starting CommonSpringBootTasksApplication using Java 11.0.16 on sumankhara-mac with PID 37229 (/Users/sumankhara/Documents/PersonalProjects/Spring/Book/SpringBootInPractice/common-spring-boot-tasks/target/classes started by sumankhara in /Users/sumankhara/Documents/PersonalProjects/Spring/Book/SpringBootInPractice)
+2023-11-20 15:50:30.782  INFO 37229 --- [main] c.m.s.CommonSpringBootTasksApplication   : No active profile set, falling back to 1 default profile: "default"
+2023-11-20 15:50:31.210  INFO 37229 --- [main] c.m.s.CommonSpringBootTasksApplication   : Started CommonSpringBootTasksApplication in 0.805 seconds (JVM running for 1.567)
+2023-11-20 15:50:31.213  INFO 37229 --- [main] c.m.s.c.MyCommandLineRunner              : MyCommandLineRunner executed as a Spring compoent
+2023-11-20 15:50:31.213  INFO 37229 --- [main] c.m.s.CommonSpringBootTasksApplication   : CommonSpringBootTasksApplication::CommandLineRunner has executed
+2023-11-20 15:50:31.215  INFO 37229 --- [main] c.m.s.c.AppConfiguration                 : CommandLineRunner executed as bean definition with 0 arguments
+2023-11-20 15:50:31.220  INFO 37229 --- [main] c.m.s.CommonSpringBootTasksApplication   : Username: sumankhara, Password: p@ssw0rd
+2023-11-20 15:50:31.220  INFO 37229 --- [main] c.m.s.CommonSpringBootTasksApplication   : Port = 8080
+2023-11-20 15:50:31.221  INFO 37229 --- [main] c.m.s.CommonSpringBootTasksApplication   : OS environment variable: null
+2023-11-20 15:50:31.234  INFO 37229 --- [main] c.m.s.CommonSpringBootTasksApplication   : AppProperties{name='CourseTracker', ip='127.0.0.1', port=9090, security=Security{enabled=true, token='asddf998hhyqthgtYYtggghg9908jjh7ttr', roles=[USER, ADMIN]}}
